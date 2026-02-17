@@ -65,6 +65,11 @@
             "keyColor": "yellow"
         },
         {
+            "type": "initsystem",
+            "key": "   󰐥",
+            "keyColor": "yellow"
+        },
+        {
             "type": "packages",
             "key": "   󰏖",
             "keyColor": "yellow"
@@ -74,14 +79,8 @@
             "key": "   ",
             "keyColor": "yellow"
         },
-        "break",
         {
             "type": "de",
-            "key": " DE",
-            "keyColor": "blue"
-        },
-        {
-            "type": "lm",
             "key": "   ",
             "keyColor": "blue"
         },
