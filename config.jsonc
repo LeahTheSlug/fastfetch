@@ -29,18 +29,18 @@
         },
         {
             "type": "gpu",
-            "key": "   󰍛",
+            "key": "   󰢮",
             "keyColor": "green",
             "temp":true
         },
         {
             "type": "memory",
-            "key": "   󰍛",
+            "key": "   󰑭",
             "keyColor": "green"
         },
         {
             "type": "disk",
-            "key": "   ",
+            "key": "   ",
             "keyColor": "green"
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "type": "os",
-            "key": " OS",
+            "key": "󰻀 OS",
             "keyColor": "yellow"
         },
         {
             "type": "kernel",
-            "key": "   ",
+            "key": "   ",
             "keyColor": "yellow"
         },
         {
