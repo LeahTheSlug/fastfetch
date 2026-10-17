@@ -21,6 +21,15 @@
             "keyColor": "green"
         },
         {
+            "type": "title",
+            "color": {
+                        "user": "green",
+                        "host": "green"
+                     },
+            "key": "   ",
+            "keyColor": "green"
+        },
+        {
             "type": "cpu",
             "key": "   ",
             "keyColor": "green",
